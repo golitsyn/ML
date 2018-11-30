@@ -48,7 +48,7 @@ mlmeta.servers = [
   "ip": "sa.mysteralegacy.com"
 },
   {
-  "title": "USWest2 New!",
+  "title": "USWest2",
   "ip": "usw2.mysteralegacy.com"
 }
 ];
