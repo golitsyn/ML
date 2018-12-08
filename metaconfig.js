@@ -54,3 +54,5 @@ mlmeta.servers = [
 ];
 
 mlmeta.news = "";
+//document.location.search = '';
+console.log('ref' + document.location.search);
