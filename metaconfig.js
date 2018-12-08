@@ -54,5 +54,5 @@ mlmeta.servers = [
 ];
 
 mlmeta.news = "";
-//document.location.search = '';
-console.log('ref' + document.location.search);
+
+if (document && document.location && document.location.search) window.history.replaceState('', '', '?');
