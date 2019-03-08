@@ -28,7 +28,7 @@ mlmeta.servers = [
   "ip": "eu.mysteralegacy.com"
 },
   {
-  "title": "Brasil (maintenance)",
+  "title": "Brasil",
   "ip": "br.mysteralegacy.com"
 },
   {
