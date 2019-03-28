@@ -32,7 +32,7 @@ mlmeta.servers = [
   "ip": "br.mysteralegacy.com"
 },
   {
-  "title": "SE Asia",
+  "title": "SE Asia(maintenance)",
   "ip": "sea.mysteralegacy.com"
 },
   {
