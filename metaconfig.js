@@ -1,13 +1,13 @@
 var mlmeta = {};
-mlmeta['version'] = "4.9.1";
+mlmeta['version'] = "5.0.9";
 
 var tips = [
   "Tip: If you hold down the action button for a few seconds it will stay pressed!",
-  "Tip: Cover your entire house in floors to keep underground thieves from breaking in!",
+  "Tip: Cover your entire house in floors to keep thieves from breaking in!",
   "Tip: Tap on an enemy to target them. You will automatically fight, great for spears!",
-  "Tip: To unlock all cosmetics, please login and support the game at mysteralegacy.com",
   "Tip: Upgrade Pack Rat to increase weight capacity, and Scholar to increase exp gain!"
   ];
+//"Tip: To unlock all cosmetics, please login and support the game at mysteralegacy.com",
 mlmeta.tip = tips[Math.floor(Math.random() * tips.length)];
 
 mlmeta.servers = [
@@ -34,6 +34,10 @@ mlmeta.servers = [
   {
   "title": "SE Asia",
   "ip": "sea.mysteralegacy.com"
+},
+  {
+  "title": "SE Asia2",
+  "ip": "sea2.mysteralegacy.com"
 },
   {
   "title": "London",
